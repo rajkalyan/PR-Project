@@ -1,0 +1,1 @@
+To run the IPYNB The file download the data set from "https://drive.google.com/drive/folders/1z-SDh_2q_gqD51WpZhVXP715Sha_FeDc?usp=sharing" and other required files from "https://drive.google.com/drive/folders/1x1HBL-cfrLIKGzB61R2rMefqfVqq-MJZ?usp=sharing"
